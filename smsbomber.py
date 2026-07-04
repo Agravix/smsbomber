@@ -22,7 +22,7 @@ def Banner():
     """
     panel = Panel(
         Text(banner_text, style="bold cyan"),
-        title="[bold yellow]🚀 SMS BOMBER PRO v2.0[/]",
+        title="[bold yellow]🚀 SMS BOMBER AG6 v2.0[/]",
         subtitle="[dim]Created by Agravix[/]",
         border_style="blue",
         width=70
